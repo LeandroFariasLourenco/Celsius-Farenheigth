@@ -20,6 +20,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Jersey Web Application</servlet-name>
-		<url-pattern>/api/*</url-pattern>
+		<url-pattern>/crunchify/*</url-pattern>
 	</servlet-mapping>
 </web-app>
